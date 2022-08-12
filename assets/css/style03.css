@@ -38,8 +38,7 @@
 }
 
 /* bestM */
-.bestM {}
-.bestM .best-title .bt-stit{color: #DA5E7C; font-size: 12px; line-height: 20px; font-weight: 600;}
+.bestM .best-title .bt-stit{color: #DA5E7C; font-size: 12px; line-height: 20px; }
 .bestM .best-title .bt-tit{font-size: 22px; padding-bottom: 5px;}
 .bestM .best-title .bt-dest{font-size: 22px; color: #818181; font-weight: 100; margin-bottom: 10px;}
 
